@@ -18,7 +18,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Laravel](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=laravel)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -47,9 +47,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/kaleemqasim"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kaleemqasim"><img src="https://img.shields.io/badge/-Kaleem%20Qasim-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kaleemsofttest@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/kaleemezpz"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/kaleemhunter"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/kaleemqasim"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://instagram.com/kaleemezpz"><img src="https://img.shields.io/badge/-@kaleemqasim-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/kaleemhunter"><img src="https://img.shields.io/badge/-@kaleemqasim-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/kaleemqasim"><img src="https://img.shields.io/badge/-@kaleemqasim-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p>
