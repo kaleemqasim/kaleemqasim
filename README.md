@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-👨🏻‍💻 &nbsp;I'm currently working as senior software engineer at Devsinc.\
+👨🏻‍💻 &nbsp;I'm currently working as a Sr.Software Engineer at Devsinc.\
 🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I play games, watch netflix or study technologies backgrounds and future.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
